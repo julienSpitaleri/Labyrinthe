@@ -1,5 +1,8 @@
 # Jeux découverte de la programmation
 
+## prérequis : 
+    télécharger un IDE (visual studio code)
+    télécharger Python : https://www.python.org/downloads/
 ## 2 phases : 
     1ère phase :
         débugger les touches directionnel qui permettent au robot de se déplacer
